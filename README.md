@@ -15,7 +15,7 @@ This README file is organised to follow CRISP-DM (CRoss-Industry-Standard-Proces
 
 For this project, I was interested in using Airbnb data from Berlin to answer the following questions:
 
-1. What is the overall trend of Airbnb in Berlin for past 5 years?
+1. What is the overall trend of Airbnb in Berlin for past 10 years?
 2. How does neighborhood affect the price and overall rating?
 3. What factors contribute to the overall price?
 
